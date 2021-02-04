@@ -1,15 +1,17 @@
 ---
-name: 'design-and-code-skeletons-screens'
-trans: 'disena-programa-skeletons-screens'
-title: Design and code responsive Skeleton Screens
-year: 1 May 2019
-color: '#edece7'
-isTextColorDark: true
 noMainImage: true
-extraComponent: 'Datatable'
-id: 'design-and-code-skeletons-screens'
-description: |
-  You will learn how to design a Skeleton Screen thinking about its asynchronometry and how to code it based on Sketch or Photoshop opacity modes.
+isTextColorDark: true
+color: "#edece7"
+trans: disena-programa-skeletons-screens
+name: design-and-code-skeletons-screens
+extraComponent: Datatable
+title: Design and code responsive Skeleton Screens
+date: 2021-02-04T02:16:23.950Z
+id: design-and-code-skeletons-screens
+description: >
+  You will learn how to design a Skeleton Screen thinking about its
+  asynchronometry and how to code it based on Sketch or Photoshop opacity modes.
+year: 1 May 2019
 ---
 
 ## What are Skeleton Screens?
